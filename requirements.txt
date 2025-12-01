@@ -1,9 +1,0 @@
-IPython
-PyPDF2
-chromadb
-google-colab
-ipywidgets
-langchain-text-splitters
-numpy
-openai
-pdfplumber
