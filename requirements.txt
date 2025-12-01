@@ -1,0 +1,8 @@
+IPython
+PyPDF2
+chromadb
+ipywidgets
+langchain-text-splitters
+numpy
+openai
+pdfplumber
